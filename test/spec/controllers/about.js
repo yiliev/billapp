@@ -3,7 +3,7 @@
 describe('Controller: AboutCtrl', function () {
 
   // load the controller's module
-  beforeEach(module('nowtvbillApp'));
+  beforeEach(module('skyBillApp'));
 
   var AboutCtrl,
     scope;

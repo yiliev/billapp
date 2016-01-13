@@ -2,12 +2,12 @@
 
 /**
  * @ngdoc function
- * @name nowtvbillApp.controller:AboutCtrl
+ * @name skyBillApp.controller:AboutCtrl
  * @description
  * # AboutCtrl
- * Controller of the nowtvbillApp
+ * Controller of the skyBillApp
  */
-angular.module('nowtvbillApp')
+angular.module('skyBillApp')
   .controller('AboutCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',

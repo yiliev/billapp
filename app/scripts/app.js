@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name nowtvbillApp
+ * @name skyBillApp
  * @description
- * # nowtvbillApp
+ * # skyBillApp
  *
  * Main module of the application.
  */
 angular
-  .module('nowtvbillApp', [
+  .module('skyBillApp', [
     'ngAnimate',
     'ngResource',
     'ngRoute',
