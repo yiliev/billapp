@@ -1,0 +1,42 @@
+.footer {
+    padding: 12px 0;
+    color: $grey;
+    background-color: #f4f4f4;
+
+    a {
+        color: $gray;
+    }
+}
+
+    .footer__sitemap {
+        line-height: 28px;
+        margin-bottom: 5px;
+    }
+
+        .footer__sitemap__item {
+            margin-bottom: 5px;
+        }
+        .footer__sitemap__title {
+            font-size: 24px;
+            font-weight: 500;
+            margin-bottom: 12px;
+        }
+
+
+    .footer__tsandcs {
+        margin: 24px 0;
+
+        li {
+            margin-right: 24px;
+        }
+    }
+
+    .footer__bottom-section {
+        line-height: 70px;
+    }
+
+    .footer__logo {
+        float: left;
+        margin: 0 10px 0 0;
+    }
+
